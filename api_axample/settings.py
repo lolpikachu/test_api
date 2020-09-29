@@ -25,7 +25,7 @@ SECRET_KEY = 'o5p^iv^(#031x*^$u5o%wkj@a$zrj(3+yrthmz+zf&go2d+syr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', '135.181.103.38']
+ALLOWED_HOSTS = ['127.0.0.1', '135.181.103.38', 'ovrax.com', 'www.ovrax.com']
 
 
 # Application definition
